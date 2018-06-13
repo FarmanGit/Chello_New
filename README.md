@@ -1,2 +1,3 @@
 # CShared
 # CStatic
+# CStatic2
